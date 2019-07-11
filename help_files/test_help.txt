@@ -1,0 +1,6 @@
+Usage:
+    python test.py --options
+
+--options:
+    --name:           nom du model à utiliser
+    --image:          chemin vers l'image 

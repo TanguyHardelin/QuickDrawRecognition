@@ -1,0 +1,8 @@
+Usage:
+    python train.py --options
+
+--options:
+    --nb_epoch:       nombre d'époques d'entrainements
+    --batch_size:     nombre de données par batch_size
+    --name:           nom du model
+    --display:        afficher les fonctions une fois l'entrainement fini
